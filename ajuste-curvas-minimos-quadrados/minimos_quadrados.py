@@ -1,9 +1,3 @@
-# =========================================================================
-# AJUSTE DE CURVAS: MÉTODO DOS MÍNIMOS QUADRADOS (PYTHON)
-# Modelo Exponencial - Consumo de Energia Elétrica
-# =========================================================================
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 
