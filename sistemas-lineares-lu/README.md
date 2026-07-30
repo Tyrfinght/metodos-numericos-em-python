@@ -18,5 +18,5 @@ Os resultados demonstraram alta robustez do modelo:
 * O cálculo de similaridade da matriz inversa teórica com a computada ($||M - I|| / ||I|| \approx 0$) apresentou um erro mínimo na casa de 1e-15, provando a eficácia do pivoteamento em mitigar a propagação de erros de ponto flutuante, mesmo em condições adversas.
 
 ## Documentação e Códigos
-A matemática das matrizes, a extração dos valores teóricos e as tabelas comparativas estão no Whitepaper do projeto:
+A matemática das matrizes, a extração dos valores teóricos e as tabelas comparativas estão no texto do projeto:
 **[Ler o Relatório (PDF)](./Atividade_3_Numerico.pdf)**
