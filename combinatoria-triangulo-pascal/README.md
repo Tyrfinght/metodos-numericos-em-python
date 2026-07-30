@@ -1,7 +1,7 @@
 # Matemática Computacional: Combinatória e Triângulo de Pascal
 
 ## O Projeto
-Na computação, o cálculo direto de combinações e coeficientes binomiais através da fórmula de fatoriais ($C_p^n = n! / (p!(n-p)!)$) é ineficiente e altamente propenso a falhas de estouro de memória (*Integer Overflow*), dado o crescimento hiper-rápido da função fatorial. 
+Na computação, o cálculo direto de combinações e coeficientes binomiais através da fórmula de fatoriais $(C_p^n = n! / (p!(n-p)!))$ é ineficiente e altamente propenso a falhas de estouro de memória (*Integer Overflow*), dado o crescimento hiper-rápido da função fatorial. 
 
 Este projeto explora uma solução algorítmica clássica baseada em **Programação Dinâmica**: a construção do Triângulo de Pascal. Ele permite o cálculo de combinações e probabilidades utilizando apenas operações de soma sequenciais, armazenando os estados anteriores para construir os próximos.
 
