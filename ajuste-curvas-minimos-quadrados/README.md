@@ -23,4 +23,4 @@ Este resultado evidenciou que a dispersão dos dados da amostra não possuía um
 
 ## Documentação e Códigos
 As equações completas, a matriz de resultados e os gráficos de dispersão plotados estão documentados no Whitepaper do projeto.
-👉 **[Ler o Relatório (PDF)](./Atividade_6_Numerico.pdf)**
+**[Ler o Relatório (PDF)](./Atividade_6_Numerico.pdf)**
