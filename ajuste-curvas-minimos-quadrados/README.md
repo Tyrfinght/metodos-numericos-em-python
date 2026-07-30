@@ -22,5 +22,5 @@ A hipótese inicial assumia que a função senoidal teria a melhor performance, 
 Este resultado evidenciou que a dispersão dos dados da amostra não possuía uma sazonalidade perfeitamente contínua, favorecendo um modelo de crescimento amortecido. O projeto valida a eficácia do cálculo de matrizes para generalizar curvas, sendo a espinha dorsal de algoritmos modernos de regressão.
 
 ## Documentação e Códigos
-As equações completas, a matriz de resultados e os gráficos de dispersão plotados estão documentados no Whitepaper do projeto.
-**[Ler o Relatório (PDF)](./Atividade_6_Numerico.pdf)**
+As equações completas, a matriz de resultados e os gráficos de dispersão plotados estão documentados no texto do projeto.
+**[Relatório (PDF)](./Atividade_6_Numerico.pdf)**
